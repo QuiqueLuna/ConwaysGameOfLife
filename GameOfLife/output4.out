@@ -1,0 +1,653 @@
+Simulation at 2023-03-05
+Universe size 200 x 200
+
+Iteration: 1
+Block:     0    Percent: 0.0
+Beehive:   0    Percent: 0.0
+Loaf:      0    Percent: 0.0
+Boat:      0    Percent: 0.0
+Tub:       0    Percent: 0.0
+Blinker:   0    Percent: 0.0
+Toad:      0    Percent: 0.0
+Beacon:    0    Percent: 0.0
+Glider:    0    Percent: 0.0
+Spaceship: 0    Percent: 0.0
+Total:     0
+
+Iteration: 2
+Block:     0    Percent: 0.0
+Beehive:   0    Percent: 0.0
+Loaf:      0    Percent: 0.0
+Boat:      0    Percent: 0.0
+Tub:       0    Percent: 0.0
+Blinker:   0    Percent: 0.0
+Toad:      0    Percent: 0.0
+Beacon:    0    Percent: 0.0
+Glider:    0    Percent: 0.0
+Spaceship: 0    Percent: 0.0
+Total:     0
+
+Iteration: 3
+Block:     0    Percent: 0.0
+Beehive:   0    Percent: 0.0
+Loaf:      0    Percent: 0.0
+Boat:      0    Percent: 0.0
+Tub:       0    Percent: 0.0
+Blinker:   0    Percent: 0.0
+Toad:      0    Percent: 0.0
+Beacon:    0    Percent: 0.0
+Glider:    0    Percent: 0.0
+Spaceship: 0    Percent: 0.0
+Total:     0
+
+Iteration: 4
+Block:     0    Percent: 0.0
+Beehive:   0    Percent: 0.0
+Loaf:      0    Percent: 0.0
+Boat:      0    Percent: 0.0
+Tub:       0    Percent: 0.0
+Blinker:   0    Percent: 0.0
+Toad:      0    Percent: 0.0
+Beacon:    0    Percent: 0.0
+Glider:    0    Percent: 0.0
+Spaceship: 0    Percent: 0.0
+Total:     0
+
+Iteration: 5
+Block:     0    Percent: 0.0
+Beehive:   0    Percent: 0.0
+Loaf:      0    Percent: 0.0
+Boat:      0    Percent: 0.0
+Tub:       0    Percent: 0.0
+Blinker:   0    Percent: 0.0
+Toad:      0    Percent: 0.0
+Beacon:    0    Percent: 0.0
+Glider:    0    Percent: 0.0
+Spaceship: 0    Percent: 0.0
+Total:     0
+
+Iteration: 6
+Block:     1    Percent: 50.0
+Beehive:   0    Percent: 0.0
+Loaf:      0    Percent: 0.0
+Boat:      0    Percent: 0.0
+Tub:       0    Percent: 0.0
+Blinker:   1    Percent: 50.0
+Toad:      0    Percent: 0.0
+Beacon:    0    Percent: 0.0
+Glider:    0    Percent: 0.0
+Spaceship: 0    Percent: 0.0
+Total:     2
+
+Iteration: 7
+Block:     1    Percent: 16.666666666666664
+Beehive:   0    Percent: 0.0
+Loaf:      0    Percent: 0.0
+Boat:      0    Percent: 0.0
+Tub:       0    Percent: 0.0
+Blinker:   5    Percent: 83.33333333333334
+Toad:      0    Percent: 0.0
+Beacon:    0    Percent: 0.0
+Glider:    0    Percent: 0.0
+Spaceship: 0    Percent: 0.0
+Total:     6
+
+Iteration: 8
+Block:     1    Percent: 14.285714285714285
+Beehive:   2    Percent: 28.57142857142857
+Loaf:      0    Percent: 0.0
+Boat:      0    Percent: 0.0
+Tub:       0    Percent: 0.0
+Blinker:   4    Percent: 57.14285714285714
+Toad:      0    Percent: 0.0
+Beacon:    0    Percent: 0.0
+Glider:    0    Percent: 0.0
+Spaceship: 0    Percent: 0.0
+Total:     7
+
+Iteration: 9
+Block:     1    Percent: 14.285714285714285
+Beehive:   1    Percent: 14.285714285714285
+Loaf:      0    Percent: 0.0
+Boat:      0    Percent: 0.0
+Tub:       0    Percent: 0.0
+Blinker:   5    Percent: 71.42857142857143
+Toad:      0    Percent: 0.0
+Beacon:    0    Percent: 0.0
+Glider:    0    Percent: 0.0
+Spaceship: 0    Percent: 0.0
+Total:     7
+
+Iteration: 10
+Block:     2    Percent: 25.0
+Beehive:   1    Percent: 12.5
+Loaf:      0    Percent: 0.0
+Boat:      0    Percent: 0.0
+Tub:       0    Percent: 0.0
+Blinker:   5    Percent: 62.5
+Toad:      0    Percent: 0.0
+Beacon:    0    Percent: 0.0
+Glider:    0    Percent: 0.0
+Spaceship: 0    Percent: 0.0
+Total:     8
+
+Iteration: 11
+Block:     2    Percent: 13.333333333333334
+Beehive:   1    Percent: 6.666666666666667
+Loaf:      0    Percent: 0.0
+Boat:      5    Percent: 33.33333333333333
+Tub:       0    Percent: 0.0
+Blinker:   7    Percent: 46.666666666666664
+Toad:      0    Percent: 0.0
+Beacon:    0    Percent: 0.0
+Glider:    0    Percent: 0.0
+Spaceship: 0    Percent: 0.0
+Total:     15
+
+Iteration: 12
+Block:     4    Percent: 50.0
+Beehive:   1    Percent: 12.5
+Loaf:      0    Percent: 0.0
+Boat:      0    Percent: 0.0
+Tub:       0    Percent: 0.0
+Blinker:   3    Percent: 37.5
+Toad:      0    Percent: 0.0
+Beacon:    0    Percent: 0.0
+Glider:    0    Percent: 0.0
+Spaceship: 0    Percent: 0.0
+Total:     8
+
+Iteration: 13
+Block:     6    Percent: 50.0
+Beehive:   1    Percent: 8.333333333333332
+Loaf:      0    Percent: 0.0
+Boat:      0    Percent: 0.0
+Tub:       0    Percent: 0.0
+Blinker:   5    Percent: 41.66666666666667
+Toad:      0    Percent: 0.0
+Beacon:    0    Percent: 0.0
+Glider:    0    Percent: 0.0
+Spaceship: 0    Percent: 0.0
+Total:     12
+
+Iteration: 14
+Block:     4    Percent: 40.0
+Beehive:   1    Percent: 10.0
+Loaf:      0    Percent: 0.0
+Boat:      0    Percent: 0.0
+Tub:       0    Percent: 0.0
+Blinker:   5    Percent: 50.0
+Toad:      0    Percent: 0.0
+Beacon:    0    Percent: 0.0
+Glider:    0    Percent: 0.0
+Spaceship: 0    Percent: 0.0
+Total:     10
+
+Iteration: 15
+Block:     4    Percent: 33.33333333333333
+Beehive:   1    Percent: 8.333333333333332
+Loaf:      0    Percent: 0.0
+Boat:      1    Percent: 8.333333333333332
+Tub:       0    Percent: 0.0
+Blinker:   6    Percent: 50.0
+Toad:      0    Percent: 0.0
+Beacon:    0    Percent: 0.0
+Glider:    0    Percent: 0.0
+Spaceship: 0    Percent: 0.0
+Total:     12
+
+Iteration: 16
+Block:     4    Percent: 25.0
+Beehive:   1    Percent: 6.25
+Loaf:      0    Percent: 0.0
+Boat:      0    Percent: 0.0
+Tub:       0    Percent: 0.0
+Blinker:   11    Percent: 68.75
+Toad:      0    Percent: 0.0
+Beacon:    0    Percent: 0.0
+Glider:    0    Percent: 0.0
+Spaceship: 0    Percent: 0.0
+Total:     16
+
+Iteration: 17
+Block:     4    Percent: 36.36363636363637
+Beehive:   1    Percent: 9.090909090909092
+Loaf:      0    Percent: 0.0
+Boat:      0    Percent: 0.0
+Tub:       0    Percent: 0.0
+Blinker:   6    Percent: 54.54545454545454
+Toad:      0    Percent: 0.0
+Beacon:    0    Percent: 0.0
+Glider:    0    Percent: 0.0
+Spaceship: 0    Percent: 0.0
+Total:     11
+
+Iteration: 18
+Block:     6    Percent: 42.857142857142854
+Beehive:   1    Percent: 7.142857142857142
+Loaf:      0    Percent: 0.0
+Boat:      0    Percent: 0.0
+Tub:       1    Percent: 7.142857142857142
+Blinker:   6    Percent: 42.857142857142854
+Toad:      0    Percent: 0.0
+Beacon:    0    Percent: 0.0
+Glider:    0    Percent: 0.0
+Spaceship: 0    Percent: 0.0
+Total:     14
+
+Iteration: 19
+Block:     4    Percent: 30.76923076923077
+Beehive:   1    Percent: 7.6923076923076925
+Loaf:      0    Percent: 0.0
+Boat:      0    Percent: 0.0
+Tub:       1    Percent: 7.6923076923076925
+Blinker:   7    Percent: 53.84615384615385
+Toad:      0    Percent: 0.0
+Beacon:    0    Percent: 0.0
+Glider:    0    Percent: 0.0
+Spaceship: 0    Percent: 0.0
+Total:     13
+
+Iteration: 20
+Block:     4    Percent: 36.36363636363637
+Beehive:   1    Percent: 9.090909090909092
+Loaf:      0    Percent: 0.0
+Boat:      0    Percent: 0.0
+Tub:       1    Percent: 9.090909090909092
+Blinker:   5    Percent: 45.45454545454545
+Toad:      0    Percent: 0.0
+Beacon:    0    Percent: 0.0
+Glider:    0    Percent: 0.0
+Spaceship: 0    Percent: 0.0
+Total:     11
+
+Iteration: 21
+Block:     6    Percent: 37.5
+Beehive:   1    Percent: 6.25
+Loaf:      0    Percent: 0.0
+Boat:      0    Percent: 0.0
+Tub:       1    Percent: 6.25
+Blinker:   7    Percent: 43.75
+Toad:      0    Percent: 0.0
+Beacon:    0    Percent: 0.0
+Glider:    1    Percent: 6.25
+Spaceship: 0    Percent: 0.0
+Total:     16
+
+Iteration: 22
+Block:     5    Percent: 33.33333333333333
+Beehive:   1    Percent: 6.666666666666667
+Loaf:      0    Percent: 0.0
+Boat:      0    Percent: 0.0
+Tub:       1    Percent: 6.666666666666667
+Blinker:   7    Percent: 46.666666666666664
+Toad:      0    Percent: 0.0
+Beacon:    0    Percent: 0.0
+Glider:    1    Percent: 6.666666666666667
+Spaceship: 0    Percent: 0.0
+Total:     15
+
+Iteration: 23
+Block:     5    Percent: 45.45454545454545
+Beehive:   1    Percent: 9.090909090909092
+Loaf:      0    Percent: 0.0
+Boat:      0    Percent: 0.0
+Tub:       0    Percent: 0.0
+Blinker:   5    Percent: 45.45454545454545
+Toad:      0    Percent: 0.0
+Beacon:    0    Percent: 0.0
+Glider:    0    Percent: 0.0
+Spaceship: 0    Percent: 0.0
+Total:     11
+
+Iteration: 24
+Block:     6    Percent: 31.57894736842105
+Beehive:   1    Percent: 5.263157894736842
+Loaf:      0    Percent: 0.0
+Boat:      0    Percent: 0.0
+Tub:       0    Percent: 0.0
+Blinker:   12    Percent: 63.1578947368421
+Toad:      0    Percent: 0.0
+Beacon:    0    Percent: 0.0
+Glider:    0    Percent: 0.0
+Spaceship: 0    Percent: 0.0
+Total:     19
+
+Iteration: 25
+Block:     7    Percent: 43.75
+Beehive:   2    Percent: 12.5
+Loaf:      0    Percent: 0.0
+Boat:      0    Percent: 0.0
+Tub:       0    Percent: 0.0
+Blinker:   7    Percent: 43.75
+Toad:      0    Percent: 0.0
+Beacon:    0    Percent: 0.0
+Glider:    0    Percent: 0.0
+Spaceship: 0    Percent: 0.0
+Total:     16
+
+Iteration: 26
+Block:     7    Percent: 41.17647058823529
+Beehive:   2    Percent: 11.76470588235294
+Loaf:      0    Percent: 0.0
+Boat:      0    Percent: 0.0
+Tub:       0    Percent: 0.0
+Blinker:   8    Percent: 47.05882352941176
+Toad:      0    Percent: 0.0
+Beacon:    0    Percent: 0.0
+Glider:    0    Percent: 0.0
+Spaceship: 0    Percent: 0.0
+Total:     17
+
+Iteration: 27
+Block:     6    Percent: 40.0
+Beehive:   2    Percent: 13.333333333333334
+Loaf:      0    Percent: 0.0
+Boat:      0    Percent: 0.0
+Tub:       0    Percent: 0.0
+Blinker:   7    Percent: 46.666666666666664
+Toad:      0    Percent: 0.0
+Beacon:    0    Percent: 0.0
+Glider:    0    Percent: 0.0
+Spaceship: 0    Percent: 0.0
+Total:     15
+
+Iteration: 28
+Block:     8    Percent: 53.333333333333336
+Beehive:   2    Percent: 13.333333333333334
+Loaf:      0    Percent: 0.0
+Boat:      0    Percent: 0.0
+Tub:       0    Percent: 0.0
+Blinker:   5    Percent: 33.33333333333333
+Toad:      0    Percent: 0.0
+Beacon:    0    Percent: 0.0
+Glider:    0    Percent: 0.0
+Spaceship: 0    Percent: 0.0
+Total:     15
+
+Iteration: 29
+Block:     7    Percent: 31.818181818181817
+Beehive:   2    Percent: 9.090909090909092
+Loaf:      0    Percent: 0.0
+Boat:      0    Percent: 0.0
+Tub:       0    Percent: 0.0
+Blinker:   13    Percent: 59.09090909090909
+Toad:      0    Percent: 0.0
+Beacon:    0    Percent: 0.0
+Glider:    0    Percent: 0.0
+Spaceship: 0    Percent: 0.0
+Total:     22
+
+Iteration: 30
+Block:     7    Percent: 35.0
+Beehive:   2    Percent: 10.0
+Loaf:      0    Percent: 0.0
+Boat:      0    Percent: 0.0
+Tub:       0    Percent: 0.0
+Blinker:   11    Percent: 55.00000000000001
+Toad:      0    Percent: 0.0
+Beacon:    0    Percent: 0.0
+Glider:    0    Percent: 0.0
+Spaceship: 0    Percent: 0.0
+Total:     20
+
+Iteration: 31
+Block:     7    Percent: 29.166666666666668
+Beehive:   2    Percent: 8.333333333333332
+Loaf:      0    Percent: 0.0
+Boat:      0    Percent: 0.0
+Tub:       0    Percent: 0.0
+Blinker:   15    Percent: 62.5
+Toad:      0    Percent: 0.0
+Beacon:    0    Percent: 0.0
+Glider:    0    Percent: 0.0
+Spaceship: 0    Percent: 0.0
+Total:     24
+
+Iteration: 32
+Block:     11    Percent: 47.82608695652174
+Beehive:   2    Percent: 8.695652173913043
+Loaf:      0    Percent: 0.0
+Boat:      0    Percent: 0.0
+Tub:       0    Percent: 0.0
+Blinker:   10    Percent: 43.47826086956522
+Toad:      0    Percent: 0.0
+Beacon:    0    Percent: 0.0
+Glider:    0    Percent: 0.0
+Spaceship: 0    Percent: 0.0
+Total:     23
+
+Iteration: 33
+Block:     11    Percent: 39.285714285714285
+Beehive:   2    Percent: 7.142857142857142
+Loaf:      0    Percent: 0.0
+Boat:      0    Percent: 0.0
+Tub:       0    Percent: 0.0
+Blinker:   15    Percent: 53.57142857142857
+Toad:      0    Percent: 0.0
+Beacon:    0    Percent: 0.0
+Glider:    0    Percent: 0.0
+Spaceship: 0    Percent: 0.0
+Total:     28
+
+Iteration: 34
+Block:     11    Percent: 45.83333333333333
+Beehive:   2    Percent: 8.333333333333332
+Loaf:      0    Percent: 0.0
+Boat:      0    Percent: 0.0
+Tub:       1    Percent: 4.166666666666666
+Blinker:   10    Percent: 41.66666666666667
+Toad:      0    Percent: 0.0
+Beacon:    0    Percent: 0.0
+Glider:    0    Percent: 0.0
+Spaceship: 0    Percent: 0.0
+Total:     24
+
+Iteration: 35
+Block:     11    Percent: 45.83333333333333
+Beehive:   2    Percent: 8.333333333333332
+Loaf:      0    Percent: 0.0
+Boat:      0    Percent: 0.0
+Tub:       1    Percent: 4.166666666666666
+Blinker:   10    Percent: 41.66666666666667
+Toad:      0    Percent: 0.0
+Beacon:    0    Percent: 0.0
+Glider:    0    Percent: 0.0
+Spaceship: 0    Percent: 0.0
+Total:     24
+
+Iteration: 36
+Block:     11    Percent: 47.82608695652174
+Beehive:   2    Percent: 8.695652173913043
+Loaf:      0    Percent: 0.0
+Boat:      0    Percent: 0.0
+Tub:       1    Percent: 4.3478260869565215
+Blinker:   9    Percent: 39.130434782608695
+Toad:      0    Percent: 0.0
+Beacon:    0    Percent: 0.0
+Glider:    0    Percent: 0.0
+Spaceship: 0    Percent: 0.0
+Total:     23
+
+Iteration: 37
+Block:     11    Percent: 45.83333333333333
+Beehive:   2    Percent: 8.333333333333332
+Loaf:      0    Percent: 0.0
+Boat:      0    Percent: 0.0
+Tub:       1    Percent: 4.166666666666666
+Blinker:   10    Percent: 41.66666666666667
+Toad:      0    Percent: 0.0
+Beacon:    0    Percent: 0.0
+Glider:    0    Percent: 0.0
+Spaceship: 0    Percent: 0.0
+Total:     24
+
+Iteration: 38
+Block:     13    Percent: 43.333333333333336
+Beehive:   2    Percent: 6.666666666666667
+Loaf:      0    Percent: 0.0
+Boat:      0    Percent: 0.0
+Tub:       1    Percent: 3.3333333333333335
+Blinker:   14    Percent: 46.666666666666664
+Toad:      0    Percent: 0.0
+Beacon:    0    Percent: 0.0
+Glider:    0    Percent: 0.0
+Spaceship: 0    Percent: 0.0
+Total:     30
+
+Iteration: 39
+Block:     12    Percent: 50.0
+Beehive:   2    Percent: 8.333333333333332
+Loaf:      0    Percent: 0.0
+Boat:      0    Percent: 0.0
+Tub:       0    Percent: 0.0
+Blinker:   10    Percent: 41.66666666666667
+Toad:      0    Percent: 0.0
+Beacon:    0    Percent: 0.0
+Glider:    0    Percent: 0.0
+Spaceship: 0    Percent: 0.0
+Total:     24
+
+Iteration: 40
+Block:     14    Percent: 58.333333333333336
+Beehive:   2    Percent: 8.333333333333332
+Loaf:      0    Percent: 0.0
+Boat:      0    Percent: 0.0
+Tub:       0    Percent: 0.0
+Blinker:   8    Percent: 33.33333333333333
+Toad:      0    Percent: 0.0
+Beacon:    0    Percent: 0.0
+Glider:    0    Percent: 0.0
+Spaceship: 0    Percent: 0.0
+Total:     24
+
+Iteration: 41
+Block:     15    Percent: 51.724137931034484
+Beehive:   2    Percent: 6.896551724137931
+Loaf:      0    Percent: 0.0
+Boat:      0    Percent: 0.0
+Tub:       0    Percent: 0.0
+Blinker:   12    Percent: 41.37931034482759
+Toad:      0    Percent: 0.0
+Beacon:    0    Percent: 0.0
+Glider:    0    Percent: 0.0
+Spaceship: 0    Percent: 0.0
+Total:     29
+
+Iteration: 42
+Block:     15    Percent: 55.55555555555556
+Beehive:   3    Percent: 11.11111111111111
+Loaf:      0    Percent: 0.0
+Boat:      0    Percent: 0.0
+Tub:       0    Percent: 0.0
+Blinker:   9    Percent: 33.33333333333333
+Toad:      0    Percent: 0.0
+Beacon:    0    Percent: 0.0
+Glider:    0    Percent: 0.0
+Spaceship: 0    Percent: 0.0
+Total:     27
+
+Iteration: 43
+Block:     17    Percent: 56.666666666666664
+Beehive:   2    Percent: 6.666666666666667
+Loaf:      0    Percent: 0.0
+Boat:      0    Percent: 0.0
+Tub:       0    Percent: 0.0
+Blinker:   11    Percent: 36.666666666666664
+Toad:      0    Percent: 0.0
+Beacon:    0    Percent: 0.0
+Glider:    0    Percent: 0.0
+Spaceship: 0    Percent: 0.0
+Total:     30
+
+Iteration: 44
+Block:     14    Percent: 58.333333333333336
+Beehive:   2    Percent: 8.333333333333332
+Loaf:      0    Percent: 0.0
+Boat:      0    Percent: 0.0
+Tub:       0    Percent: 0.0
+Blinker:   8    Percent: 33.33333333333333
+Toad:      0    Percent: 0.0
+Beacon:    0    Percent: 0.0
+Glider:    0    Percent: 0.0
+Spaceship: 0    Percent: 0.0
+Total:     24
+
+Iteration: 45
+Block:     15    Percent: 51.724137931034484
+Beehive:   2    Percent: 6.896551724137931
+Loaf:      0    Percent: 0.0
+Boat:      0    Percent: 0.0
+Tub:       0    Percent: 0.0
+Blinker:   12    Percent: 41.37931034482759
+Toad:      0    Percent: 0.0
+Beacon:    0    Percent: 0.0
+Glider:    0    Percent: 0.0
+Spaceship: 0    Percent: 0.0
+Total:     29
+
+Iteration: 46
+Block:     14    Percent: 58.333333333333336
+Beehive:   2    Percent: 8.333333333333332
+Loaf:      0    Percent: 0.0
+Boat:      0    Percent: 0.0
+Tub:       0    Percent: 0.0
+Blinker:   8    Percent: 33.33333333333333
+Toad:      0    Percent: 0.0
+Beacon:    0    Percent: 0.0
+Glider:    0    Percent: 0.0
+Spaceship: 0    Percent: 0.0
+Total:     24
+
+Iteration: 47
+Block:     15    Percent: 51.724137931034484
+Beehive:   2    Percent: 6.896551724137931
+Loaf:      0    Percent: 0.0
+Boat:      0    Percent: 0.0
+Tub:       0    Percent: 0.0
+Blinker:   12    Percent: 41.37931034482759
+Toad:      0    Percent: 0.0
+Beacon:    0    Percent: 0.0
+Glider:    0    Percent: 0.0
+Spaceship: 0    Percent: 0.0
+Total:     29
+
+Iteration: 48
+Block:     14    Percent: 48.275862068965516
+Beehive:   2    Percent: 6.896551724137931
+Loaf:      0    Percent: 0.0
+Boat:      0    Percent: 0.0
+Tub:       0    Percent: 0.0
+Blinker:   13    Percent: 44.827586206896555
+Toad:      0    Percent: 0.0
+Beacon:    0    Percent: 0.0
+Glider:    0    Percent: 0.0
+Spaceship: 0    Percent: 0.0
+Total:     29
+
+Iteration: 49
+Block:     15    Percent: 48.38709677419355
+Beehive:   2    Percent: 6.451612903225806
+Loaf:      0    Percent: 0.0
+Boat:      0    Percent: 0.0
+Tub:       0    Percent: 0.0
+Blinker:   14    Percent: 45.16129032258064
+Toad:      0    Percent: 0.0
+Beacon:    0    Percent: 0.0
+Glider:    0    Percent: 0.0
+Spaceship: 0    Percent: 0.0
+Total:     31
+
+Iteration: 50
+Block:     15    Percent: 53.57142857142857
+Beehive:   2    Percent: 7.142857142857142
+Loaf:      0    Percent: 0.0
+Boat:      0    Percent: 0.0
+Tub:       0    Percent: 0.0
+Blinker:   11    Percent: 39.285714285714285
+Toad:      0    Percent: 0.0
+Beacon:    0    Percent: 0.0
+Glider:    0    Percent: 0.0
+Spaceship: 0    Percent: 0.0
+Total:     28
+
